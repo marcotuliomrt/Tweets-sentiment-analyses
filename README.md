@@ -1,1 +1,1 @@
-# Cdados_twitter
+# Tweets sentiments analyses with Naive Bayes 
